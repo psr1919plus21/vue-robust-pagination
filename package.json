@@ -1,6 +1,6 @@
 {
   "name": "vue-robust-pagination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple vue pagination.",
   "main": "index.js",
   "scripts": {

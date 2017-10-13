@@ -1,4 +1,4 @@
-export default Vue.component('vue-robust-pagination', {
+Vue.component('vue-robust-pagination', {
   props: {
     pages: {
       type: Number,
