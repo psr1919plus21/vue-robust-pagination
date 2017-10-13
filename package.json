@@ -1,0 +1,24 @@
+{
+  "name": "vue-robust-pagination",
+  "version": "1.0.0",
+  "description": "Simple vue pagination.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/psr1919plus21/vue-robust-pagination.git"
+  },
+  "keywords": [
+    "vue",
+    "page",
+    "pagination"
+  ],
+  "author": "fil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psr1919plus21/vue-robust-pagination/issues"
+  },
+  "homepage": "https://github.com/psr1919plus21/vue-robust-pagination#readme"
+}
