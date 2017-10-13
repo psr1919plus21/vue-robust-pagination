@@ -1,6 +1,6 @@
 # Vue component for simple sync and async pagination.
 
-![Image of vue-robust-pagination](link here.png)
+![Image of vue-robust-pagination](https://raw.githubusercontent.com/psr1919plus21/vue-robust-pagination/master/vue-robust-pagination.png)
 
 Get *vue-robust-pagination*
 ----------
@@ -9,7 +9,7 @@ Here several ways to get *vue-robust-pagination*:
 
 **download**
 Copypaste component in your project:
-[Get vue-robust-pagination](link here)
+[Get vue-robust-pagination](https://raw.githubusercontent.com/psr1919plus21/vue-robust-pagination/master/index.js)
 
 **npm**
 
