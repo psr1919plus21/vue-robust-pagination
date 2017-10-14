@@ -23,10 +23,15 @@ In order to initialise *vue-robust-pagination*  you need to add *vue-robust-pagi
 Options
 -------
 *vue-robust-pagination*  accept following props:
+
 pages – number of pages *(required)*
+
 navigation – enables prev/next buttons *(false by default)*
+
 initialactive – active page number
+
 url – url prefix for pages. If pesent each page number contain `href` with following pattern: `href="url/pageNumber"`
+
 onchange – callback function calls with pagenumber argument on page change.
 
 Example:
